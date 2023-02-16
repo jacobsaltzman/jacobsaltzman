@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobsaltzman
 - 👀 I’m interested in making web-apps, creating and playing board games and puzzles, and playing music. 
-- 🌱 I’m currently learning Ruby on Rails, Kubernetes, Docker, and general Cyber-Security.
+- 🌱 I’m currently learning Ruby on Rails, Kubernetes, AWS and amplify, and backend dev tech stacks.
 - 💞️ I’m looking to collaborate on video game programming, blockchain protocol and smart contract writing, white-hat hacking, and any other fun projects.
 - 📫 How to reach me ...
 
